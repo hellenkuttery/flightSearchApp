@@ -1,0 +1,8 @@
+fsq3mVuDiuWs/4RZFbMf2jvhVUkZ0oI2iyjdizvKb3CRYDI=
+yelp:
+https://docs.developer.yelp.com/docs/fusion-intro
+https://developers.amadeus.com/self-service/category/flights/api-doc/flight-availabilities-search
+https://developers.amadeus.com/my-apps/flight?userId=helen.kut90@gmail.com
+amadeus api key :XKdRG86tgqPNXZ0xEipuLZwOSkwgy28G
+apisecret :UAtxOtPli9X6hsc4
+

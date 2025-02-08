@@ -1,0 +1,8 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Uçak -->
+  <path d="M100 30 L120 70 L160 80 L120 90 L100 130 L90 90 L50 80 L90 70 Z" fill="black"/>
+  
+  <!-- Duman ile kalp çizgisi -->
+  <path d="M50 150 C40 110, 90 70, 100 100 C110 70, 160 110, 150 150"
+        stroke="black" stroke-width="4" stroke-dasharray="10,10" fill="none"/>
+</svg>

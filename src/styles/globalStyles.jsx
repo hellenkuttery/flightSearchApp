@@ -1,3 +1,5 @@
+import flightImage from "../assets/flight.jpeg"
+
 export const bodyStyle = {
   margin: 0,
   padding: "1.5rem",
@@ -19,7 +21,7 @@ export const containerStyle = {
 };
 
 export const sliderStyle = {
-  backgroundImage: `radial-gradient(circle, rgba(255, 88, 94,0.4), rgba(40, 40, 40,0.3)), url(src/assets/flight.jpeg)`,
+  backgroundImage: `radial-gradient(circle, rgba(255, 88, 94,0.4), rgba(40, 40, 40,0.3)), url(${flightImage})`,
   backgroundSize: "cover",
   backgroundPosition: "center",
   height: "500px",

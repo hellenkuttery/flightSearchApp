@@ -9,7 +9,7 @@ import {
   sliderStyle,
   smallGradientBorderStyle,
   smallGradientBorderWrapperStyle,
-} from "../styles/GlobalStyles";
+} from "../styles/globalStyles";
 import { Typography } from "@mui/material";
 const Slider = () => {
   return (

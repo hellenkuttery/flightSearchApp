@@ -1,4 +1,6 @@
 # FlightAppSearch
+## Project
+![Project](./src/assets/flightApp.gif)
 ## Project link
 [Project live Link ](https://dazzling-madeleine-3db301.netlify.app/)
 ## Project Description

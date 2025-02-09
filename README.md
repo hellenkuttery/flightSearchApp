@@ -1,5 +1,6 @@
 # FlightAppSearch
-
+## Project link
+[Project live Link ](https://dazzling-madeleine-3db301.netlify.app/)
 ## Project Description
 FlightAppSearch is a React-based application that allows users to search for flights by providing an origin, destination, and travel date. The application displays the flight results in a DataGrid and also features an interactive map that shows nearby airports and notable landmarks around the selected airport.
 
